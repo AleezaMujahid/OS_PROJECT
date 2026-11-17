@@ -1,0 +1,27 @@
+# Python environments
+.venv/
+venv/
+__pycache__/
+
+# Compiled files
+*.exe
+*.o
+*.obj
+*.dll
+*.out
+
+# Linux compiled programs
+OS_Project/bin/
+drone_kalman_windows/bin/
+
+# Generated binary datasets
+*.bin
+
+# Temporary logs
+*.log
+
+# Editor files
+.vscode/
+
+# Backup files
+*_backup.c.txt

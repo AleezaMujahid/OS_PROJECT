@@ -1,0 +1,5 @@
+os,mode,workers,tracks,steps,read_ms,spawn_ms,compute_ms,write_ms,total_ms,slowest_worker_ms
+windows,run,1,200,500,5.334,6.624,48.440,2.662,63.059,21.353
+windows,run,2,200,500,2.116,9.973,32.003,2.485,46.578,10.873
+windows,run,4,200,500,2.046,21.454,35.479,2.550,61.530,7.824
+windows,run,8,200,500,2.136,55.782,51.824,24.052,133.795,6.831
